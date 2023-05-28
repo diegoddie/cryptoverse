@@ -32,7 +32,7 @@ To use Cryptoverse, follow these simple steps:
 6. Access Cryptoverse in your browser at http://localhost:3000.
 7. Explore the latest news, prices, statistics, and charts for cryptocurrencies. Enjoy!
 
-Or .. I just deployed this project here! 🏄👉 
+Or .. I just deployed this project here! 🏄👉 https://cryptoverse-coral.vercel.app/
 
 ## Credits
 This project was created following the tutorial by JavaScript Mastery on YouTube. The tutorial was instrumental in helping me understand and utilize the various technologies involved. I am grateful for the knowledge gained through this project, and I will carry it forward in my future projects.🙏
